@@ -92,7 +92,7 @@ Blender's built-in FBX exporter is known to have issues with not exporting the c
 
 ### Using Denormalized Avatar Exporter
 
-[Denormalized Avatar Exporter] is a Unity package developed by [@vr_hai](https://x.com/vr_hai). It allows you to export avatars normally designed for use in VRChat into VTubing apps including Warudo, but it also works on non-VRChat models.
+[Denormalized Avatar Exporter](https://docs.hai-vr.dev/docs/products/denormalized-avatar-exporter) is a Unity package developed by [@vr_hai](https://x.com/vr_hai). It allows you to export avatars normally designed for use in VRChat into VTubing apps including Warudo, but it also works on non-VRChat models.
 
 We recommend you to use it if you did not model the character yourself and are facing issues with bone normalization. For more information, please check out the [official documentation](https://docs.hai-vr.dev/docs/products/denormalized-avatar-exporter#usage-in-warudo).
 
